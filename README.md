@@ -7,6 +7,7 @@ kepada masyarakat luar tentang budaya dan wisata yang terdapat di Blora dan juga
 peta online yaitu peta persebaran lokasi penginapan di Blora
 
 Komponen Pembangun:
+
 1.Data shapefile administrasi Kecamatan
 2.Data persebaran lokasi penginapan di Kabupaten blora
 
